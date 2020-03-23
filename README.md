@@ -539,7 +539,7 @@
    #!/bin/bash
    
    # ***************************
-   # Author	: 谭黎明
+   # Author	: BeanZero
    # Email		: dawnoftan@163.com
    # Date		: 2020-03-14
    # 
@@ -583,7 +583,7 @@
    
    
    REM 说明：通过端口号查询pid，然后保存堆栈日志(用于window版本)
-   REM 作者：谭黎明
+   REM 作者：BeanZero
    REM 邮箱：dawnoftan@163.com
    
    color a
